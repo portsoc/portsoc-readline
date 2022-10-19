@@ -9,13 +9,13 @@ const drink = await question('tea or coffee?');
 ## Installation
 
 ```sh
-npm install uop-readline
+npm install portsoc-readline
 ```
 
 ## Example:
 
 ```js
-import { question } from 'uop-readline';
+import { question } from 'portsoc-readline';
 
 const name = await question("Hi, what's your name?");
 console.log(`Hello, ${name}!`);
