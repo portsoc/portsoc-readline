@@ -1,6 +1,6 @@
 {
   "name": "portsoc-readline",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Easy-to-use promise-based input",
   "main": "index.js",
   "scripts": {
