@@ -1,0 +1,17 @@
+{
+  "name": "uop-readline",
+  "version": "0.0.1",
+  "description": "Easy-to-use promise-based input",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [
+    "readline",
+    "async",
+    "promise"
+  ],
+  "author": "softeng@port.ac.uk",
+  "license": "ISC"
+}
